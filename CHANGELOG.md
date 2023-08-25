@@ -1,3 +1,7 @@
+# 2.1.1 - Aug 25, 2023
+
+* Fix issue where quotes inside a comment are considered strings (https://github.com/OliverJAsh/vscode-just/issues/1)
+
 # 2.1.0 - Feb 1, 2022
 
 * Fix outdated file syntax
