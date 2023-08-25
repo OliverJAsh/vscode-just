@@ -3,7 +3,7 @@
   "displayName": "justfile",
   "description": "Provides syntax and recipe launcher for Just scripts.",
   "version": "2.1.0",
-  "publisher": "sclu1034",
+  "publisher": "OliverJAsh",
   "private": true,
   "license": "MIT",
   "icon": "images/robot.png",
@@ -20,12 +20,12 @@
     "launch"
   ],
   "repository": {
-    "url": "https://github.com/sclu1034/vscode-just.git"
+    "url": "https://github.com/OliverJAsh/vscode-just.git"
   },
   "bugs": {
-    "url": "https://github.com/sclu1034/vscode-just/issues"
+    "url": "https://github.com/OliverJAsh/vscode-just/issues"
   },
-  "homepage": "https://github.com/sclu1034/vscode-just",
+  "homepage": "https://github.com/OliverJAsh/vscode-just",
   "categories": [
     "Programming Languages",
     "Other"
