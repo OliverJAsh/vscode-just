@@ -4,6 +4,12 @@ A `Just` language syntax for colourizing your `justfile`s and running recipes.
 
 ![Just in Code](images/just-demo.gif)
 
+# Installation
+
+```console
+$ ./node_modules/.bin/vsce package --out ./just.vsix && code --install-extension ./just.vsix
+```
+
 # Running A Recipe
 
 * `cmd + shift + p` then type `Just: Run Recipe`
