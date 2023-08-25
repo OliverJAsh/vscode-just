@@ -15,7 +15,7 @@
             "patterns": [
                 {
                     "name": "comment.line.just",
-                    "match": "^#[^!].*"
+                    "match": "#[^!].*"
                 }
             ]
         },
